@@ -14,8 +14,6 @@ If you ask about chatbot introduction, the bot returns with the the features of 
 * Operator web client supports real-time observation and participation in multiple customer conversations
 * Operator web client demonstrates alerting of operator in case of customer escalation
 
-![image01](https://blog.dialogflow.com/images/dialogflow-logo.png)
+![image01](https://github.com/innoviai/web_handoff_demo/blob/master/handoff-chatbot1.jpg)
 
-![image02](https://github.com/innoviai/Chatbot_demo/blob/master/Webp.net-gifmaker.gif)
-
-![image03](https://camo.githubusercontent.com/82bc0349e969a3e53f7ebbf6b55cfd6bf69bf642/68747470733a2f2f692e696d6775722e636f6d2f713546595739382e706e67)
+![image02](https://github.com/innoviai/web_handoff_demo/blob/master/handoff-chatbot2.jpg)
